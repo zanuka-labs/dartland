@@ -8,3 +8,6 @@ It's built on Dart and used extensively by Google AdWords, AdSense, Fiber, and m
 ## contents
 
 - [examples](examples)
+
+---
+_The intent of this repo is to provide a useful collection of examples gathered from relevant GitHub projects, docs, blogs, articles, and videos_

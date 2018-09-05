@@ -10,3 +10,7 @@ tensor GitHub [repos](https://github.com/tensor-programming)
 ## contents
 - [oop](concepts/oop.dart)
 - [async](concepts/async.dart)
+
+
+---
+_The intent of this repo is to provide a useful collection of examples gathered from relevant GitHub projects, docs, blogs, articles, and videos_
