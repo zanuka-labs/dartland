@@ -20,6 +20,13 @@ doc/api/
 .idea/**/dictionaries
 .idea/**/shelf
 
+# More stuff
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/*.iml
+.idea/modules
+
 # Generated files
 .idea/**/contentModel.xml
 
@@ -35,14 +42,6 @@ doc/api/
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
-
-# Gradle and Maven with auto-import
-# When using Gradle or Maven with auto-import, you should exclude module files,
-# since they will be recreated, and may cause churn.  Uncomment if using
-# auto-import.
-# .idea/modules.xml
-# .idea/*.iml
-# .idea/modules
 
 # CMake
 cmake-build-*/
