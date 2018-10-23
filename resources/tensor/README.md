@@ -1,4 +1,4 @@
-# tensor resources
+# tensor programming resources
 selected resources from the [tensor programming blog](http://tensor-programming.com/)
 
 _The objective of the Tensor Programming Blog is to teach both new and experienced programmers many different programming languages._ 

@@ -5,7 +5,10 @@ explorations in Dart
 
 - Dart
 - Flutter
-- AngularDart
+- [AngularDart](resources/angular-dart)
+- [Tensor Programming](resources/tensor)
+- [BLoC Pattern](resources/bloc)
+- [Workflow](resources/workflow)
 - Server-Side Dart
 - Pub Commands
 - Project Workflow
