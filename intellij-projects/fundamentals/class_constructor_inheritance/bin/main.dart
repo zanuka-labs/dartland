@@ -15,10 +15,16 @@ class ElevatedLocation extends Location {
   ElevatedLocation(num lat, num lng, this.elevation) : super(lat, lng);
   // can also use the named constructor...
 //  ElevatedLocation(num lat, num lng, this.elevation) : super.create(lat, lng);
+
+// now override the toString method for convenience
+  @override
+  String toString() {
+    var result = '$lat, $lng, $elevation';
+    return result;
+  }
 }
 
 main(List<String> arguments) {
   var elevated = ElevatedLocation(23.89, -42.89, 90);
-
-  print('Location = ${elevated.lat}, ${elevated.lng}, ${elevated.elevation}');
+  print(elevated.toString());
 }
