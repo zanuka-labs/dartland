@@ -26,5 +26,11 @@ class ElevatedLocation extends Location {
 
 main(List<String> arguments) {
   var elevated = ElevatedLocation(23.89, -42.89, 90);
-  print(elevated.toString());
+
+// you don't have to call the toString method
+// but you can. it will be implied
+// since we're overriding it already...
+//  print(elevated.toString());
+
+  print(elevated);
 }
