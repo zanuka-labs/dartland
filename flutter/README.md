@@ -2,5 +2,5 @@
 
 ## contents
 
-- [links](links)
+- [links](./links.md)
 
