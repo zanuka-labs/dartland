@@ -1,14 +1,16 @@
 # dartlandia
 explorations in Dart
 
+![](./img/dartland.jpg)
+
 ## contents
 
-- Dart
-- Flutter
+- [Flutter](flutter)
 - [AngularDart](resources/angular-dart)
 - [Tensor Programming](resources/tensor)
 - [BLoC Pattern](resources/bloc)
 - [Workflow](resources/workflow)
+- Dart
 - Server-Side Dart
 - Pub Commands
 - Project Workflow
