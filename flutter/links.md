@@ -1,4 +1,4 @@
-# flutter links
+# Flutter :: links
 collection of links on Flutter topics
 
 ## BLoC Pattern
@@ -7,5 +7,6 @@ collection of links on Flutter topics
 ## Video Players
 - [chewie](https://github.com/brianegan/chewie) :: The video player for Flutter with a heart of gold
 
-## Streams :: RxDart
+## Streams :: RxDart :: Reactive
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) :: by Brian Egan
+- [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/) 
