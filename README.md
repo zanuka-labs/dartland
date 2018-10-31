@@ -5,15 +5,14 @@ explorations in Dart
 
 ## contents
 
+- [Dart](dart)
 - [Flutter](flutter)
-- [AngularDart](resources/angular-dart)
-- [Tensor Programming](resources/tensor)
-- [BLoC Pattern](resources/bloc)
-- [Workflow](resources/workflow)
-- Dart
-- Server-Side Dart
+- [AngularDart](angular-dart)
+- [Tensor Programming](tensor)
+- [BLoC Pattern](bloc)
+- [Workflow](workflow)
 - Pub Commands
-- Project Workflow
+- Workflow
 - Tooling
 - Debugging
 - Animation

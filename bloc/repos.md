@@ -1,3 +1,3 @@
-# repos that use BLoC pattern
+# BLoC resources
 
 - [flutter-dice](https://github.com/codegrue/flutter_dice)
