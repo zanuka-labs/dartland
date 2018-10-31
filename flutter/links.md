@@ -11,3 +11,6 @@ collection of links on Flutter topics
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan
 - [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/)   
+
+## IntelliJ
+- [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
