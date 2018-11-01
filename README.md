@@ -11,8 +11,6 @@ explorations in Dart
 - [Tensor Programming](tensor)
 - [BLoC Pattern](bloc)
 - [Workflow](workflow)
-- Pub Commands
-- Workflow
 - Tooling
 - Debugging
 - Animation
@@ -20,7 +18,6 @@ explorations in Dart
 - Testing
 - Utilities
 - Databases
-- Design Patterns
 
 ---
 _The intent of this repo is to provide a useful collection of examples gathered from relevant GitHub projects, docs, blogs, articles, and videos_
