@@ -13,3 +13,6 @@
 
 ## IntelliJ
 - [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
+
+## CI/CD Pipeline
+- [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
