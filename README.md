@@ -11,6 +11,7 @@ explorations in Dart
 - [Tensor Programming](tensor)
 - [BLoC Pattern](bloc)
 - [Workflow](workflow)
+- [Code Sharing](code-sharing)
 - Tooling
 - Debugging
 - Animation
