@@ -10,6 +10,13 @@
 ## Video Players
 - [chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
 
+## Videos
+- [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
+
+## Courses
+- [Build Native Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
+
 ## Streams, RxDart
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan

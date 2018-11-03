@@ -18,7 +18,6 @@ selected resources, examples, guides, links, code
   - [dart library tour](https://www.dartlang.org/guides/libraries/library-tour)
   - [pub.dartlang.org](https://pub.dartlang.org/)
 
-
 ## Projects
   - [GitHub Issues Viewer](examples/github_issues)
   - [Dart Hacker News PWA](examples/hacker_news_pwa)
