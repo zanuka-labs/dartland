@@ -5,9 +5,7 @@ AngularDart is a productive web application framework that powers some of Google
 
 It's built on Dart and used extensively by Google AdWords, AdSense, Fiber, and many more projects.
 
-## contents
+## Fundamentals :: Tutorials :: Guides
 
-- [examples](examples)
+  - [tour of heroes](https://webdev.dartlang.org/angular/tutorial)
 
----
-_The intent of this repo is to provide a useful collection of examples gathered from relevant GitHub projects, docs, blogs, articles, and videos_
