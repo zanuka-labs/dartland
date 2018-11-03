@@ -23,6 +23,7 @@
 - [Flutter & Dart: A Complete Showcase Mobile App™](https://www.udemy.com/flutter-dart-a-complete-showcase-course-for-mobile-development/)
 - [Flutter - Firebase - CRUD - Build 2 Apps](https://www.udemy.com/flutter-firebase-crud-build-2-apps-super-easy/)
 - [Flutter for Mobile Devs](https://www.udemy.com/flutter-for-absolute-beginners/)
+- [Flutter - Advanced Course](https://www.udemy.com/flutter-advanced-course/)
 
 ## Streams, RxDart
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
