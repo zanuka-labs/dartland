@@ -12,6 +12,8 @@
 
 ## Videos
 - [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
+- [Void Realms Flutter Tutorials](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
+- [Andrea Bizzotto Flutter Tutorials](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP)
 
 ## Courses
 - [Build Native Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
