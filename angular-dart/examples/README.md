@@ -1,1 +1,6 @@
-Various canonical example applications for AngularDart.
+# AngularDart sample projects
+
+sample apps & project starters for AngularDart.
+
+
+

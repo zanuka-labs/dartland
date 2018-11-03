@@ -1,4 +1,4 @@
-# Example registration form
+# Registration Form
 
 An example registration form using the `angular_forms` library.
 

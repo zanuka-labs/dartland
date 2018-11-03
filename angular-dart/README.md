@@ -1,11 +1,14 @@
 # AngularDart resources
-selected resources from the dart-lang [AngularDart](https://github.com/dart-lang/angular) repo
+selected resources, examples, guides, links, code
 
-AngularDart is a productive web application framework that powers some of Google's most critical applications. 
-
-It's built on Dart and used extensively by Google AdWords, AdSense, Fiber, and many more projects.
-
-## Fundamentals :: Tutorials :: Guides
-
+## Fundamentals
   - [tour of heroes](https://webdev.dartlang.org/angular/tutorial)
+
+## Projects
+  - [GitHub Issues Viewer](examples/github_issues)
+  - [Dart Hacker News PWA](examples/hacker_news_pwa)
+  - [Hello World](examples/hello_world)
+  - [Registration Form](examples/registration_form)
+
+
 

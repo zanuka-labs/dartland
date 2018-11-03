@@ -1,4 +1,4 @@
-# workflow (Dart & Flutter)
+# Workflow
 
 ## IDE Config & Support
 
