@@ -17,6 +17,7 @@
 - [Build Native Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
 - [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
+- [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide/)
 
 ## Streams, RxDart
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
