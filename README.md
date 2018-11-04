@@ -14,7 +14,7 @@ explorations in Dart
 - [Code Sharing](code-sharing)
 - Tooling
 - Debugging
-- Animation
+- [Animation](animation)
 - Validation
 - Testing
 - Utilities
