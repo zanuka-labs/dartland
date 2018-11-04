@@ -1,7 +1,5 @@
 # dartlandia
-explorations in Dart
-
-![](./img/dartland.jpg)
+explorations in Dart & Flutter
 
 ## contents
 
@@ -12,9 +10,9 @@ explorations in Dart
 - [BLoC Pattern](bloc)
 - [Workflow](workflow)
 - [Code Sharing](code-sharing)
+- [Animation](animation)
 - Tooling
 - Debugging
-- [Animation](animation)
 - Validation
 - Testing
 - Utilities
