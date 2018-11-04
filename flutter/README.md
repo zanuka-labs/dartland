@@ -1,14 +1,6 @@
 # flutter resources
 
-## BLoC Pattern
-- [tensor-bloc-tutorial](https://steemit.com/utopian-io/@tensor/using-the-bloc-pattern-to-build-reactive-applications-with-streams-in-dart-s-flutter-framework)
-
-## Arch Patterns
-- [scoped model package](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children
-- [scoped model video](https://www.youtube.com/watch?v=-MCeWP3rgI0) - Video by Tensor explaining scoped models
-
-## Video Players
-- [chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
+<img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
 ## Videos
 - [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
@@ -29,6 +21,16 @@
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan
 - [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/)   
+
+## Video Players
+- [chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
+
+## BLoC Pattern
+- [tensor-bloc-tutorial](https://steemit.com/utopian-io/@tensor/using-the-bloc-pattern-to-build-reactive-applications-with-streams-in-dart-s-flutter-framework)
+
+## Arch Patterns
+- [scoped model package](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children
+- [scoped model video](https://www.youtube.com/watch?v=-MCeWP3rgI0) - Video by Tensor explaining scoped models
 
 ## IntelliJ
 - [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
