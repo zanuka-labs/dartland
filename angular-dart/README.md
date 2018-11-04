@@ -8,6 +8,9 @@ selected resources, examples, guides, links, code
   - [tour of heroes](https://webdev.dartlang.org/angular/tutorial)
   - [code labs](https://webdev.dartlang.org/codelabs)
 
+## Guides :: Articles
+  - [Intro to AngularDart](https://dzone.com/articles/intro-angulardart-best-angular) - the best Angular yet
+
 ## Community
   - [gitter channel](https://gitter.im/dart-lang/angular)
   - [stack overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
