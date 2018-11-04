@@ -1,5 +1,8 @@
 # Dart resources
 
+## Installation
+  - [Install & Manage the Dart SDK](https://webdev.dartlang.org/tools/sdk#install)
+
 ## Useful Libraries 
   - [RxDart](https://pub.dartlang.org/packages/rxdart) - reactive functional programming library for Google Dart
   - [Intl](https://pub.dartlang.org/packages/intl) - internationalization and localization facilities
