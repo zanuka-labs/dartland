@@ -12,3 +12,4 @@
   - [Flame](https://pub.dartlang.org/packages/flame) - A minimalist Flutter game engine.
   - [Flutter Swiper](https://pub.dartlang.org/packages/flutter_swiper) - The best swiper for Flutter.
   - [Percent Indicator](https://pub.dartlang.org/packages/percent_indicator) - Circular and Linear percent indicators
+  - [Flutter Spin Kit](https://pub.dartlang.org/packages/flutter_spinkit) - A collection of loading indicators animated with Flutter.
