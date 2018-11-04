@@ -7,7 +7,8 @@
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
   - [Postgres](https://pub.dartlang.org/packages/postgres) - PostgreSQL database driver
-  - [Jaquar Query SQFlite](https://pub.dartlang.org/packages/jaguar_query_sqflite) - SQFLite adapter for jaguar_query
+  - [Jaguar Query SQFlite](https://pub.dartlang.org/packages/jaguar_query_sqflite) - SQFLite adapter for jaguar_query
+  - [Jaguar Query Postgres](https://pub.dartlang.org/packages/jaguar_query_postgres)- PostgreSQL adapter for jaguar_query
 
 ## Build Tools
   - [build runner](https://github.com/dart-lang/build/blob/master/docs/getting_started.md) - all the build runner options you need
