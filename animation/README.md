@@ -7,4 +7,4 @@
 
 ## Flutter Engies
   - [Flame](https://pub.dartlang.org/packages/flame) - A minimalist Flutter game engine.
-  
+  - [Percent Indicator](https://pub.dartlang.org/packages/percent_indicator) - Circular and Linear percent indicators
