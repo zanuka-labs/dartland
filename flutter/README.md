@@ -3,33 +3,33 @@
 <img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
 ## Videos
+- [Andrea Bizzotto Flutter Tutorials](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP)
 - [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
 - [Void Realms Flutter Tutorials](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
-- [Andrea Bizzotto Flutter Tutorials](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP)
 
 ## Tutorials
 - [Void Realms Flutter Tutorials](https://github.com/voidrealms/Flutter-Tutorials) - source code for [Void Realms Flutter Series](https://www.youtube.com/watch?v=ulg2dpPkulw&list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
 ## Courses
 - [Build Native Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
-- [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
-- [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 - [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide/)
+- [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 - [Flutter & Dart: A Complete Showcase Mobile App™](https://www.udemy.com/flutter-dart-a-complete-showcase-course-for-mobile-development/)
 - [Flutter - Firebase - CRUD - Build 2 Apps](https://www.udemy.com/flutter-firebase-crud-build-2-apps-super-easy/)
 - [Flutter for Mobile Devs](https://www.udemy.com/flutter-for-absolute-beginners/)
 - [Flutter - Advanced Course](https://www.udemy.com/flutter-advanced-course/)
+- [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
 
 ## Streams, RxDart
-- [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan
 - [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/)   
+- [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
 
 ## Video Players
-- [chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
+- [Chewie](https://github.com/brianegan/chewie) - The video player for Flutter with a heart of gold
 
 ## BLoC Pattern
-- [tensor-bloc-tutorial](https://steemit.com/utopian-io/@tensor/using-the-bloc-pattern-to-build-reactive-applications-with-streams-in-dart-s-flutter-framework)
+- [Tensor Programming BLoC tutorial](https://steemit.com/utopian-io/@tensor/using-the-bloc-pattern-to-build-reactive-applications-with-streams-in-dart-s-flutter-framework)
 
 ## Arch Patterns
 - [scoped model package](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children
