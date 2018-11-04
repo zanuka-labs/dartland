@@ -24,3 +24,7 @@
 
 ## Debugging :: Profiling
   - [Observatory](http://dart-lang.github.io/observatory/)
+
+## Encryption
+  - [Pointy Castle](https://github.com/PointyCastle/pointycastle) - port of Bouncy Castle from Java to Dart
+  
