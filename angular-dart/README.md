@@ -24,5 +24,8 @@ selected resources, examples, guides, links, code
   - [Hello World](examples/hello_world)
   - [Registration Form](examples/registration_form)
 
+## News & Updates
+  - [Official Dart News](https://news.dartlang.org/)
+
 
 
