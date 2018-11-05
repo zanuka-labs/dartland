@@ -6,7 +6,4 @@ A collection of Dart & Flutter projects configured for IntelliJ IDEA.
   - [Intro to Classes](fundamentals/intro_to_classes)
   - [Class Constructor Inheritance](fundamentals/class_constructor_inheritance)
   - [Abstract Classes](fundamentals/abstract_classes)
-
-## Advanced
-  - [Abstract Interface Concepts](advanced/abstract_interface_concepts)
   
