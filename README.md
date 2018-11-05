@@ -6,10 +6,11 @@ explorations in Dart & Flutter
 - [Dart](dart)
 - [Flutter](flutter)
 - [AngularDart](angular-dart)
-- [Tensor Programming](tensor)
 - [BLoC Pattern](bloc)
-- [Workflow](workflow)
+- [Tensor Programming](tensor)
+- [IntelliJ IDEA Projects](intellij-projects)
 - [Code Sharing](code-sharing)
+- [Workflow](workflow)
 - [Animation](animation)
 - Tooling
 - Debugging
