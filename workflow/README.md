@@ -1,11 +1,13 @@
 # Workflow
 
 ## IDE Config & Support
-
   - [dart code](https://dartcode.org/)
   - [vs code / flutter setup](https://flutter.io/get-started/editor/#vscode)
   - [android studio / intelliJ / flutter setup](https://flutter.io/using-ide/)
   - [dart lang lint-rules](http://dart-lang.github.io/linter/lints/)
+
+## IntelliJ IDEA Plugins
+  - [ADB Idea](https://github.com/pbreault/adb-idea) - speeds up your day to day android development
 
 ## CI/CD Pipeline
 
