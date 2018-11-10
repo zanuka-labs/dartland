@@ -1,5 +1,5 @@
 # dartlandia
-explorations in Dart & Flutter
+explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, Console, Workflow
 
 ## contents
 
@@ -12,6 +12,9 @@ explorations in Dart & Flutter
 - [Code Sharing](code-sharing)
 - [Workflow](workflow)
 - [Animation](animation)
+- Dart Packages
+- Console Apps
+- StageXL Apps
 - Tooling
 - Debugging
 - Validation
