@@ -48,6 +48,10 @@
   - [Dart on the Server](https://dart-lang.github.io/server/server.html) - info on Dart server apps
   - [Aqueduct](https://pub.dartlang.org/packages/aqueduct) - modern HTTP server application framework
 
+## Firebase
+- [ML Kit for Firebase](https://pub.dartlang.org/packages/firebase_ml_vision) - A Flutter plugin to use the ML Kit for Firebase API
+- [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - set of Flutter plugins that enable Flutter apps to use one or more Firebase services
+
 ## Debugging :: Profiling
   - [Observatory](http://dart-lang.github.io/observatory/)
 
