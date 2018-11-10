@@ -16,6 +16,9 @@
 ## Dart in Action
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
 
+## Advanced Concepts
+  - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
+
 ## Articles
   - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
   - [PWA Offline Mode](https://medium.com/dartlang/making-a-dart-web-app-offline-capable-3-lines-of-code-e980010a7815) - enable service workers for offline mode
