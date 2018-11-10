@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 
-main() {
-  runApp(MaxApp());
-}
+void main() => runApp(MaxApp());
 
 class MaxApp extends StatelessWidget {
-  build(context) {
+  @override
+  Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
