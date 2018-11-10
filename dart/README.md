@@ -44,6 +44,7 @@
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
   - [ObjectDB](https://pub.dartlang.org/packages/objectdb) - Persistent embedded document-oriented NoSQL database for Dart and Flutter
+  - [ObjectDB Example](https://github.com/netz-chat/flutter_examples/blob/master/objectdb/listview/lib/main.dart) - Flutter implementation example
   - [Postgres](https://pub.dartlang.org/packages/postgres) - PostgreSQL database driver
   - [Jaguar Query SQFlite](https://pub.dartlang.org/packages/jaguar_query_sqflite) - SQFLite adapter for jaguar_query
   - [Jaguar Query Postgres](https://pub.dartlang.org/packages/jaguar_query_postgres)- PostgreSQL adapter for jaguar_query
