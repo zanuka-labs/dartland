@@ -56,6 +56,7 @@
   - [Observatory](http://dart-lang.github.io/observatory/)
 
 ## Encryption
+  - [jose](https://github.com/appsup-dart/jose) - Javascript Object Signing and Encryption (JOSE) library supporting JWE, JWS, JWK and JWT
   - [Simple RSA Encryption](https://pub.dartlang.org/packages/simple_rsa) - Flutter plugin to encrypt and decrypt string with a public and a private key
   - [passsword](https://pub.dartlang.org/packages/password) - A set of high-level APIs over PointyCastle to hash and verify passwords securely
   - [Pointy Castle](https://github.com/PointyCastle/pointycastle) - port of Bouncy Castle from Java to Dart
