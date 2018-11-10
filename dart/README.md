@@ -61,5 +61,6 @@
   - [Observatory](http://dart-lang.github.io/observatory/)
 
 ## Encryption
+  - [Simple RSA Encryption](https://pub.dartlang.org/packages/simple_rsa) - Flutter plugin to encrypt and decrypt string with a public and a private key
   - [Pointy Castle](https://github.com/PointyCastle/pointycastle) - port of Bouncy Castle from Java to Dart
   
