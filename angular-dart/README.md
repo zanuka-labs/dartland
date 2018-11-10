@@ -11,6 +11,9 @@ selected resources, examples, guides, links, code
 ## Guides :: Articles
   - [Intro to AngularDart](https://dzone.com/articles/intro-angulardart-best-angular) - the best Angular yet
 
+## Advanced Concepts
+  - [Imperative Component Loading](https://github.com/dart-lang/angular/blob/master/doc/faq/component-loading.md)
+
 ## Community
   - [gitter channel](https://gitter.im/dart-lang/angular)
   - [stack overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
