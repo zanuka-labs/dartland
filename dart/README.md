@@ -12,16 +12,16 @@
   - [Getting Started](https://webdev.dartlang.org/guides/get-started) - Step by step guide to using Dart to build web apps
   - [DartPad](https://dartpad.dartlang.org/) - free, open-source service to help developers learn about the Dart language and libraries
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
-  - [Dart SDK](https://www.dartlang.org/tools/sdk)
+  - [Dart SDK](https://www.dartlang.org/tools/sdk) - libraries and command-line tools that you need to develop Dart apps
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
 
 ## Dart in Action
-  - [Tools](https://www.dartlang.org/tools)
+  - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
   - [dart2js](https://webdev.dartlang.org/tools/dart2js) - The Dart-2-JavaScript Compiler
   - [dartanalyzer](https://github.com/dart-lang/sdk/tree/master/pkg/analyzer_cli#dartanalyzer) - statically analyze your code at the command line
   - [dartdevc](https://webdev.dartlang.org/tools/dartdevc) - The Dart Dev Compiler
-  - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline)
-  - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver)
+  - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline) - introduction to standalone apps
+  - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver) - communicate over the internet
 
 ## Advanced Concepts
   - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
