@@ -2,14 +2,15 @@
 selected resources, examples, guides, links, code
 
 ## Fundamentals
-  - [dart code intro](https://www.dartlang.org/samples)
-  - [dart language tour](https://www.dartlang.org/guides/language/language-tour)
-  - [effective dart](https://www.dartlang.org/guides/language/effective-dart/style) 
-  - [tour of heroes](https://webdev.dartlang.org/angular/tutorial)
-  - [code labs](https://webdev.dartlang.org/codelabs)
+  - [Dart Code Intro](https://www.dartlang.org/samples)
+  - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour)
+  - [Effective Dart](https://www.dartlang.org/guides/language/effective-dart/style) 
 
-## Guides :: Articles
-  - [Intro to AngularDart](https://dzone.com/articles/intro-angulardart-best-angular) - the best Angular yet
+## AngularDart in Action
+  - [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial)
+  - [CodeLabs](https://webdev.dartlang.org/codelabs)
+  - [Intro to AngularDart](https://dzone.com/articles/intro-angulardart-best-angular)
+  - [Cheatsheet](https://webdev.dartlang.org/angular/cheatsheet)
 
 ## Advanced Concepts
   - [Imperative Component Loading](https://github.com/dart-lang/angular/blob/master/doc/faq/component-loading.md)
