@@ -1,4 +1,4 @@
-# Dart resources
+# Dart Resources
 
 ## Installation
   - [Install & Manage the Dart SDK](https://webdev.dartlang.org/tools/sdk#install)
@@ -7,6 +7,14 @@
 ## Useful Libraries 
   - [RxDart](https://pub.dartlang.org/packages/rxdart) - reactive functional programming library for Google Dart
   - [Intl](https://pub.dartlang.org/packages/intl) - internationalization and localization facilities
+
+## Learning Dart
+  - [Getting Started](https://webdev.dartlang.org/guides/get-started) - Step by step guide to using Dart to build web apps
+  - [DartPad](https://dartpad.dartlang.org/) - free, open-source service to help developers learn about the Dart language and libraries
+  - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
+
+## Articles
+  - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
 
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
