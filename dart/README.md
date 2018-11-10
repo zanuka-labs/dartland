@@ -49,6 +49,9 @@
   - [Jaguar Query SQFlite](https://pub.dartlang.org/packages/jaguar_query_sqflite) - SQFLite adapter for jaguar_query
   - [Jaguar Query Postgres](https://pub.dartlang.org/packages/jaguar_query_postgres)- PostgreSQL adapter for jaguar_query
 
+## DApps :: Smart Contracts :: RPC :: Crypto
+  - [web3dart](https://pub.dartlang.org/packages/web3dart) - Dart library to connect to Ethereum clients. Allows you to send transactions and build DApps in Dart.
+
 ## Build Tools
   - [build runner](https://github.com/dart-lang/build/blob/master/docs/getting_started.md) - all the build runner options you need
   - [custom builds](https://github.com/dart-lang/build/blob/master/build_config/README.md) - custom builds with `build.yaml` 
