@@ -22,8 +22,11 @@
   - [dartdevc](https://webdev.dartlang.org/tools/dartdevc) - The Dart Dev Compiler
   - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline) - introduction to standalone apps
   - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver) - communicate over the internet
+  - [HTTP/2 for Dart](https://github.com/dart-lang/http2) - work in progress...
+  - [web3dart](https://pub.dartlang.org/packages/web3dart) - Dart library to connect to Ethereum clients. Allows you to send transactions and build DApps in Dart.
 
-## Articles
+## Articles :: Posts
+  - [What JavaScript language issue is Dart fixing?](https://www.quora.com/What-JavaScript-language-issue-is-Dart-fixing) - excellent Quora answer by Seth Ladd
   - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
   - [PWA Offline Mode](https://medium.com/dartlang/making-a-dart-web-app-offline-capable-3-lines-of-code-e980010a7815) - enable service workers for offline mode
   - [The Future of Server-Side Programming with Dart](https://stablekernel.com/future-server-side-programming-googles-dart-2/)
@@ -35,9 +38,6 @@
   - [Postgres](https://pub.dartlang.org/packages/postgres) - PostgreSQL database driver
   - [Jaguar Query SQFlite](https://pub.dartlang.org/packages/jaguar_query_sqflite) - SQFLite adapter for jaguar_query
   - [Jaguar Query Postgres](https://pub.dartlang.org/packages/jaguar_query_postgres)- PostgreSQL adapter for jaguar_query
-
-## DApps :: Smart Contracts :: RPC :: Crypto
-  - [web3dart](https://pub.dartlang.org/packages/web3dart) - Dart library to connect to Ethereum clients. Allows you to send transactions and build DApps in Dart.
 
 ## Build Tools
   - [build runner](https://github.com/dart-lang/build/blob/master/docs/getting_started.md) - all the build runner options you need
