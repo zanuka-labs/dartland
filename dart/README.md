@@ -17,10 +17,17 @@
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
 
 ## Advanced Concepts
-  - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
   - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
   - [Component Styles](https://webdev.dartlang.org/angular/guide/component-styles)
   - [Deployment](https://webdev.dartlang.org/angular/guide/deployment)
+  - [Hierarchical Dependency Injectors](https://webdev.dartlang.org/angular/guide/hierarchical-dependency-injection)
+  - [HTTP Client / Server Communication](https://webdev.dartlang.org/angular/guide/server-communication)
+  - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
+  - [Pipes](https://webdev.dartlang.org/angular/guide/pipes)
+  - [Routing Overview](https://webdev.dartlang.org/angular/guide/router)
+  - [Security](https://webdev.dartlang.org/angular/guide/security)
+  - [Structural Directives](https://webdev.dartlang.org/angular/guide/structural-directives)
+  - [Testing](https://webdev.dartlang.org/angular/guide/testing)
 
 
 ## Articles
