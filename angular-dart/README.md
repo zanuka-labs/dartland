@@ -13,7 +13,18 @@ selected resources, examples, guides, links, code
   - [Cheatsheet](https://webdev.dartlang.org/angular/cheatsheet)
 
 ## Advanced Concepts
+  - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
+  - [Component Styles](https://webdev.dartlang.org/angular/guide/component-styles)
+  - [Deployment](https://webdev.dartlang.org/angular/guide/deployment)
+  - [Hierarchical Dependency Injectors](https://webdev.dartlang.org/angular/guide/hierarchical-dependency-injection)
+  - [HTTP Client / Server Communication](https://webdev.dartlang.org/angular/guide/server-communication)
   - [Imperative Component Loading](https://github.com/dart-lang/angular/blob/master/doc/faq/component-loading.md)
+  - [Pipes](https://webdev.dartlang.org/angular/guide/pipes)
+  - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
+  - [Routing Overview](https://webdev.dartlang.org/angular/guide/router)
+  - [Security](https://webdev.dartlang.org/angular/guide/security)
+  - [Structural Directives](https://webdev.dartlang.org/angular/guide/structural-directives)
+  - [Testing](https://webdev.dartlang.org/angular/guide/testing)
 
 ## Community
   - [gitter channel](https://gitter.im/dart-lang/angular)

@@ -23,20 +23,6 @@
   - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline) - introduction to standalone apps
   - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver) - communicate over the internet
 
-## Advanced Concepts
-  - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
-  - [Component Styles](https://webdev.dartlang.org/angular/guide/component-styles)
-  - [Deployment](https://webdev.dartlang.org/angular/guide/deployment)
-  - [Hierarchical Dependency Injectors](https://webdev.dartlang.org/angular/guide/hierarchical-dependency-injection)
-  - [HTTP Client / Server Communication](https://webdev.dartlang.org/angular/guide/server-communication)
-  - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
-  - [Pipes](https://webdev.dartlang.org/angular/guide/pipes)
-  - [Routing Overview](https://webdev.dartlang.org/angular/guide/router)
-  - [Security](https://webdev.dartlang.org/angular/guide/security)
-  - [Structural Directives](https://webdev.dartlang.org/angular/guide/structural-directives)
-  - [Testing](https://webdev.dartlang.org/angular/guide/testing)
-
-
 ## Articles
   - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
   - [PWA Offline Mode](https://medium.com/dartlang/making-a-dart-web-app-offline-capable-3-lines-of-code-e980010a7815) - enable service workers for offline mode
