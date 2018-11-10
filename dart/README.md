@@ -26,10 +26,15 @@
   - [web3dart](https://pub.dartlang.org/packages/web3dart) - Dart library to connect to Ethereum clients. Allows you to send transactions and build DApps in Dart.
 
 ## Articles :: Posts
-  - [What JavaScript language issue is Dart fixing?](https://www.quora.com/What-JavaScript-language-issue-is-Dart-fixing) - excellent Quora answer by Seth Ladd
-  - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
-  - [PWA Offline Mode](https://medium.com/dartlang/making-a-dart-web-app-offline-capable-3-lines-of-code-e980010a7815) - enable service workers for offline mode
-  - [The Future of Server-Side Programming with Dart](https://stablekernel.com/future-server-side-programming-googles-dart-2/)
+  - [What JavaScript language issue is Dart fixing?](https://bit.ly/2PPEjEF) - excellent Quora answer by Seth Ladd
+  - [Learn Dart Before You Flutter](https://bit.ly/2AYtybe)
+  - [PWA Offline Mode](https://bit.ly/2qHjLQN) - enable service workers for offline mode
+  - [The Future of Server-Side Programming with Dart](https://bit.ly/2OBn71d)
+
+## YouTube Content
+  - [Dart In 30 Seconds](https://www.youtube.com/results?search_query=%23DartIn30Seconds) - video series focused on basic Dart lessons
+  - [Dart by Tensor Programming](https://bit.ly/2JUbmlO) - video series focused on Dart
+  - [Flutter by Tensor Programming](https://bit.ly/2AZPMcL) - video series focused on Flutter
 
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
