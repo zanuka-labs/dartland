@@ -16,6 +16,10 @@
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
 
 ## Dart in Action
+  - [Tools](https://www.dartlang.org/tools)
+  - [dart2js](https://webdev.dartlang.org/tools/dart2js) - The Dart-2-JavaScript Compiler
+  - [dartanalyzer](https://github.com/dart-lang/sdk/tree/master/pkg/analyzer_cli#dartanalyzer) - statically analyze your code at the command line
+  - [dartdevc](https://webdev.dartlang.org/tools/dartdevc) - The Dart Dev Compiler
   - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline)
   - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver)
 
