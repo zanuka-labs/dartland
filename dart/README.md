@@ -18,6 +18,9 @@
 
 ## Advanced Concepts
   - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
+  - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
+  - [Component Styles](https://webdev.dartlang.org/angular/guide/component-styles)
+
 
 ## Articles
   - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
