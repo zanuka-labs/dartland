@@ -42,7 +42,8 @@
   - [build runner](https://github.com/dart-lang/build/blob/master/docs/getting_started.md) - all the build runner options you need
   - [custom builds](https://github.com/dart-lang/build/blob/master/build_config/README.md) - custom builds with `build.yaml` 
 
-## Server
+## Server-Side Dart
+  - [Servers with Dart](https://dart-lang.github.io/server/) - Dart is a great fit for server applications
   - [Dart on the Server](https://dart-lang.github.io/server/server.html) - info on Dart server apps
   - [Aqueduct](https://pub.dartlang.org/packages/aqueduct) - modern HTTP server application framework
 
