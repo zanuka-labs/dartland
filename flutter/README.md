@@ -2,7 +2,8 @@
 
 <img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
-## Videos
+## Videos :: Screencasts
+- [Flutter by Tensor Programming](https://bit.ly/2AZPMcL) - video series focused on Flutter
 - [Andrea Bizzotto Flutter Tutorials](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP)
 - [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
 - [Void Realms Flutter Tutorials](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
