@@ -20,6 +20,7 @@
   - [Router Lifecycle Hooks](https://webdev.dartlang.org/angular/guide/router/5)
   - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
   - [Component Styles](https://webdev.dartlang.org/angular/guide/component-styles)
+  - [Deployment](https://webdev.dartlang.org/angular/guide/deployment)
 
 
 ## Articles
