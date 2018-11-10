@@ -26,6 +26,7 @@
 ## Articles
   - [Learn Dart Before You Flutter](https://itnext.io/learn-dart-before-you-flutter-d1c0be6cf892)
   - [PWA Offline Mode](https://medium.com/dartlang/making-a-dart-web-app-offline-capable-3-lines-of-code-e980010a7815) - enable service workers for offline mode
+  - [The Future of Server-Side Programming with Dart](https://stablekernel.com/future-server-side-programming-googles-dart-2/)
 
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
