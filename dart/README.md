@@ -12,9 +12,12 @@
   - [Getting Started](https://webdev.dartlang.org/guides/get-started) - Step by step guide to using Dart to build web apps
   - [DartPad](https://dartpad.dartlang.org/) - free, open-source service to help developers learn about the Dart language and libraries
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
+  - [Dart SDK](https://www.dartlang.org/tools/sdk)
+  - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
 
 ## Dart in Action
-  - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
+  - [Write Command-Line Apps](https://www.dartlang.org/tutorials/dart-vm/cmdline)
+  - [Write HTTP Clients & Servers](https://www.dartlang.org/tutorials/dart-vm/httpserver)
 
 ## Advanced Concepts
   - [Attribute Directives](https://webdev.dartlang.org/angular/guide/attribute-directives)
