@@ -7,18 +7,25 @@ class MaxMusic extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: Text('MaxMusic'),
-        ),
-        body: Card(
-          child: Column(
-            children: <Widget>[
-              Image.asset('assets/mixer.jpg'),
-              Text('MaxMusic')
-            ],
+          appBar: AppBar(
+            title: Text('MaxMusic'),
           ),
-        ),
-      ),
+          body: Column(
+            children: [
+              RaisedButton(
+                child: Text('Add Track'),
+                onPressed: () {},
+              ),
+              Card(
+                child: Column(
+                  children: <Widget>[
+                    Image.asset('assets/mixer.jpg'),
+                    Text('MaxMusic')
+                  ],
+                ),
+              ),
+            ],
+          )),
     );
   }
 }
