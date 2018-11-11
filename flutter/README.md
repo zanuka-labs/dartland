@@ -21,7 +21,7 @@
 - [Flutter - Advanced Course](https://www.udemy.com/flutter-advanced-course/)
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
 
-## Streams, RxDart
+## Streams :: RxDart :: Reactive Patterns
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan
 - [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/)   
 - [RxDart](https://pub.dartlang.org/packages/rxdart) - implementation of the popular reactiveX api for asynchronous programming
@@ -37,6 +37,7 @@
 - [scoped model video](https://www.youtube.com/watch?v=-MCeWP3rgI0) - Video by Tensor explaining scoped models
 
 ## IntelliJ
+- [Flutter IntelliJ Cheatsheet](https://flutter-io-deploy-one.firebaseapp.com/downloads/Flutter-IntelliJ-cheat-sheet-MacOS.pdf)
 - [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
 
 ## CI/CD Pipeline
