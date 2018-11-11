@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 import './tracks.dart';
 
 class TrackManager extends StatefulWidget {
+  final String initialTrack;
+
+  TrackManager(this.initialTrack);
+
   @override
   State<StatefulWidget> createState() {
     return _TrackManagerState();
@@ -10,7 +14,14 @@ class TrackManager extends StatefulWidget {
 }
 
 class _TrackManagerState extends State<TrackManager> {
-  List<String> _tracks = ['Chill Mix'];
+  List<String> _tracks = [];
+
+  @override
+  void initState() {
+    _tracks.add(widget.initialTrack);
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Column(

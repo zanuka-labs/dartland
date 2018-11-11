@@ -12,7 +12,7 @@ class MaxMusicApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('MaxMusic'),
         ),
-        body: TrackManager(),
+        body: TrackManager('Electro Boogie'),
       ),
     );
   }
