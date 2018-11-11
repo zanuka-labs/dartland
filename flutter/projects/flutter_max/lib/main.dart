@@ -11,6 +11,7 @@ class MaxMusic extends StatefulWidget {
 }
 
 class _MaxMusicState extends State<MaxMusic> {
+  List<String> _tracks = ['Chill Mix'];
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -27,14 +28,20 @@ class _MaxMusicState extends State<MaxMusic> {
                   onPressed: () {},
                 ),
               ),
-              Card(
-                child: Column(
-                  children: <Widget>[
-                    Image.asset('assets/mixer.jpg'),
-                    Text('MaxMusic')
-                  ],
-                ),
-              ),
+              Column(
+                children: _tracks
+                    .map(
+                      (element) => Card(
+                            child: Column(
+                              children: <Widget>[
+                                Image.asset('assets/mixer.jpg'),
+                                Text(element)
+                              ],
+                            ),
+                          ),
+                    )
+                    .toList(),
+              )
             ],
           )),
     );
