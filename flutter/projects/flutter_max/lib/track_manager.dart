@@ -8,9 +8,7 @@ class TrackManager extends StatefulWidget {
   TrackManager(this.initialTrack);
 
   @override
-  State<StatefulWidget> createState() {
-    return _TrackManagerState();
-  }
+  State<StatefulWidget> createState() => _TrackManagerState();
 }
 
 class _TrackManagerState extends State<TrackManager> {
