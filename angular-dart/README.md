@@ -26,6 +26,9 @@ selected resources, examples, guides, links, code
   - [Structural Directives](https://webdev.dartlang.org/angular/guide/structural-directives)
   - [Testing](https://webdev.dartlang.org/angular/guide/testing)
 
+## Deployment
+  - [Deployment Guide](https://webdev.dartlang.org/angular/guide/deployment)
+
 ## Community
   - [gitter channel](https://gitter.im/dart-lang/angular)
   - [stack overflow](https://stackoverflow.com/questions/tagged/dart+angular-dart)
