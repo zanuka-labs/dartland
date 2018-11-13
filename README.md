@@ -1,8 +1,7 @@
-# dartlandia
+# dartland
 explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, Console, Workflow
 
 ## contents
-
 - [Dart](dart)
 - [Flutter](flutter)
 - [AngularDart](angular-dart)
@@ -12,6 +11,8 @@ explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, C
 - [Code Sharing](code-sharing)
 - [Workflow](workflow)
 - [Animation](animation)
+
+_to be added..._
 - Dart Packages
 - Console Apps
 - StageXL Apps
@@ -26,5 +27,4 @@ explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, C
 _The intent of this repo is to provide a useful collection of examples gathered from relevant GitHub projects, docs, blogs, articles, and videos_
 
 ## License
-
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
