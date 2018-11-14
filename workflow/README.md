@@ -10,9 +10,12 @@
   - [ADB Idea](https://github.com/pbreault/adb-idea) - speeds up your day to day android development
 
 ## CI/CD Pipeline
-
   - [fastlane-cd](https://flutter.io/fastlane-cd/)
   - [fastlane-ci](https://docs.fastlane.tools/best-practices/continuous-integration/) 
   - [flutter-versioning](https://medium.com/@ralphbergmann/versioning-with-flutter-299869e68af4) 
   - [increment-version-code](https://github.com/Jems22/fastlane-plugin-increment_version_code)
   - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
+
+## Docker
+  - [zsh docker aliases](https://github.com/sorin-ionescu/prezto/tree/master/modules/docker) - handy aliases for zsh users
+
