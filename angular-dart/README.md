@@ -49,6 +49,7 @@ selected resources, examples, guides, links, code
 
 ## News & Updates
   - [Official Dart News](https://news.dartlang.org/)
+  - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7) - by Kevin Moore
 
 
 
