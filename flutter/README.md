@@ -8,6 +8,9 @@
 - [The Flutter Episode](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh)
 - [Void Realms Flutter Tutorials](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
+## News :: Updates :: Articles
+- [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
+
 ## Tutorials
 - [Void Realms Flutter Tutorials](https://github.com/voidrealms/Flutter-Tutorials) - source code for [Void Realms Flutter Series](https://www.youtube.com/watch?v=ulg2dpPkulw&list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
