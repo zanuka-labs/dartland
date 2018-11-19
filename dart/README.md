@@ -15,7 +15,7 @@
   - [RxDart](https://pub.dartlang.org/packages/rxdart) - reactive functional programming library for Google Dart
   - [Intl](https://pub.dartlang.org/packages/intl) - internationalization and localization facilities
 
-## Learning Dart :: Language :: Platform
+## Learning Dart
   - [Getting Started](https://webdev.dartlang.org/guides/get-started) - Step by step guide to using Dart to build web apps
   - [DartPad](https://dartpad.dartlang.org/) - free, open-source service to help developers learn about the Dart language and libraries
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
@@ -36,7 +36,7 @@
   - [HTTP/2 for Dart](https://github.com/dart-lang/http2) - work in progress...
   - [web3dart](https://pub.dartlang.org/packages/web3dart) - Dart library to connect to Ethereum clients. Allows you to send transactions and build DApps in Dart.
 
-## Videos :: Screencasts
+## Videos
   - [Dart In 30 Seconds](https://www.youtube.com/results?search_query=%23DartIn30Seconds) - video series focused on basic Dart lessons
   - [Dart by Tensor Programming](https://bit.ly/2JUbmlO) - video series focused on Dart
   - [Flutter by Tensor Programming](https://bit.ly/2AZPMcL) - video series focused on Flutter
@@ -61,19 +61,20 @@
 ## Serving Dart in the Google Cloud
   - [Dart / Knative HelloWorld](https://github.com/knative/docs/tree/master/serving/samples/helloworld-dart) - support for serving Dart code on knative
 
-## Protocol buffers :: aka Protobuf
+## Protocol Buffers
 Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
 
-  - [Protocol Buffers Reference Doc](https://developers.google.com/protocol-buffers/docs/reference/overview)
-  - [Core Protocol Buffers Site](https://developers.google.com/protocol-buffers/)
-  - [Dart generated protobuf code](https://developers.google.com/protocol-buffers/docs/reference/dart-generated)
+  - [Protocol Buffers Reference Doc](https://developers.google.com/protocol-buffers/docs/reference/overview) - reference documentation for working with protocol buffer classes
+  - [Dart Protocol Buffers Basics](https://developers.google.com/protocol-buffers/docs/darttutorial) - protocol buffers intro tutorial
+  - [Dart Generated Protobuf Code](https://developers.google.com/protocol-buffers/docs/reference/dart-generated) - describes what Dart code the protocol buffer compiler generates
   - [dart-protoc-plugin](https://github.com/dart-lang/dart-protoc-plugin) - Dart plugin for protobuf compiler (protoc)
+  - [protobuf package](https://pub.dartlang.org/packages/protobuf) - Provides runtime support for a Dart implementation of protobufs
 
 ## Firebase
 - [ML Kit for Firebase](https://pub.dartlang.org/packages/firebase_ml_vision) - A Flutter plugin to use the ML Kit for Firebase API
 - [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - set of Flutter plugins that enable Flutter apps to use one or more Firebase services
 
-## Debugging :: Profiling
+## Profiling
   - [Observatory](http://dart-lang.github.io/observatory/)
 
 ## Encryption
