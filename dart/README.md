@@ -25,6 +25,13 @@
   - [Mixins Spec for Dart 2.1](https://github.com/dart-lang/language/blob/master/accepted/2.1/super-mixins/feature-specification.md)
   - [Emulating Functions](https://www.dartlang.org/articles/language/emulating-functions) Gilad Bracha describes how to define Dart classes that behave like functions
 
+## DartPad Examples
+  - [Hello World](https://dartpad.dartlang.org/215ba63265350c02dfbd586dfd30b8c3) - basic Dart helloworld
+  - [Dart 2.1 int-2-double](https://dartpad.dartlang.org/e93b969fed77325db0b848a85f1cf78e) - example for DartPad
+  - [Dart 2.1 new mixin syntax](https://dartpad.dartlang.org/b60dc2fc7ea49acecb1fd2b57bf9be57)
+  - [Fibonacci](https://dartpad.dartlang.org/7d78af42d7b0aedfd92f00899f93561b)
+  - [Sunflower](https://dartpad.dartlang.org/a559420eed617dab7a196b5ea0b64fba)
+  - [WebSocket test](https://dartpad.dartlang.org/cb9b199b1085873de191e32a1dd5ca4f)
 
 ## Dart in Action
   - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
