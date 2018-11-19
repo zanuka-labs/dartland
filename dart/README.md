@@ -8,13 +8,14 @@
   - [RxDart](https://pub.dartlang.org/packages/rxdart) - reactive functional programming library for Google Dart
   - [Intl](https://pub.dartlang.org/packages/intl) - internationalization and localization facilities
 
-## Learning Dart
+## Learning Dart :: Language :: Platform
   - [Getting Started](https://webdev.dartlang.org/guides/get-started) - Step by step guide to using Dart to build web apps
   - [DartPad](https://dartpad.dartlang.org/) - free, open-source service to help developers learn about the Dart language and libraries
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
   - [Dart SDK](https://www.dartlang.org/tools/sdk) - libraries and command-line tools that you need to develop Dart apps
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
   - [Dart Mixins](https://www.dartlang.org/articles/language/mixins) - Gilad Bracha gives a brief history of mixins in Dart
+  - [Emulating Functions](https://www.dartlang.org/articles/language/emulating-functions) Gilad Bracha describes how to define Dart classes that behave like functions
 
 ## Dart in Action
   - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
