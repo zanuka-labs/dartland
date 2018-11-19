@@ -1,6 +1,10 @@
 # AngularDart resources
 selected resources, examples, guides, links, code
 
+## News :: Updates :: Articles
+  - [Official Dart News](https://news.dartlang.org/)
+  - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7) - by Kevin Moore
+
 ## Installation
   - [Mac Install](https://flutter.io/docs/get-started/install/macos)
   - [Linux Install](https://flutter.io/docs/get-started/install/linux)
@@ -52,9 +56,7 @@ selected resources, examples, guides, links, code
   - [Hello World](examples/hello_world)
   - [Registration Form](examples/registration_form)
 
-## News & Updates
-  - [Official Dart News](https://news.dartlang.org/)
-  - [Announcing Dart 2 Stable and the Dart Web Platform](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7) - by Kevin Moore
+
 
 
 
