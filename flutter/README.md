@@ -2,7 +2,10 @@
 
 <img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
-## News :: Updates :: Articles
+## News, Events
+  - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
+
+## Articles
 - [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
 
 ## Videos :: Screencasts
