@@ -22,7 +22,9 @@
   - [Dart SDK](https://www.dartlang.org/tools/sdk) - libraries and command-line tools that you need to develop Dart apps
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
   - [Dart Mixins](https://www.dartlang.org/articles/language/mixins) - Gilad Bracha gives a brief history of mixins in Dart
+  - [Mixins Spec for Dart 2.1](https://github.com/dart-lang/language/blob/master/accepted/2.1/super-mixins/feature-specification.md)
   - [Emulating Functions](https://www.dartlang.org/articles/language/emulating-functions) Gilad Bracha describes how to define Dart classes that behave like functions
+
 
 ## Dart in Action
   - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
