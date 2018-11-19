@@ -1,5 +1,12 @@
 # Dart Resources
 
+## News :: Updates :: Articles
+  - [Announcing Dart 2.1](https://medium.com/dartlang/announcing-dart-2-1-improved-performance-usability-9f55fca6f31a) - by Michael Thomsen, Product Manager working on Dart and Flutter
+  - [What JavaScript language issue is Dart fixing?](https://bit.ly/2PPEjEF) - excellent Quora answer by Seth Ladd
+  - [Learn Dart Before You Flutter](https://bit.ly/2AYtybe)
+  - [PWA Offline Mode](https://bit.ly/2qHjLQN) - enable service workers for offline mode
+  - [The Future of Server-Side Programming with Dart](https://bit.ly/2OBn71d)
+
 ## Installation
   - [Install & Manage the Dart SDK](https://webdev.dartlang.org/tools/sdk#install)
   - [Dart Homebrew](https://github.com/dart-lang/homebrew-dart) - official Dart tap for Homebrew
@@ -16,13 +23,6 @@
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
   - [Dart Mixins](https://www.dartlang.org/articles/language/mixins) - Gilad Bracha gives a brief history of mixins in Dart
   - [Emulating Functions](https://www.dartlang.org/articles/language/emulating-functions) Gilad Bracha describes how to define Dart classes that behave like functions
-
-## News :: Updates :: Articles
-  - [Announcing Dart 2.1: Improved performance & usability](https://medium.com/dartlang/announcing-dart-2-1-improved-performance-usability-9f55fca6f31a) - by Michael Thomsen, Product Manager working on Dart and Flutter
-  - [What JavaScript language issue is Dart fixing?](https://bit.ly/2PPEjEF) - excellent Quora answer by Seth Ladd
-  - [Learn Dart Before You Flutter](https://bit.ly/2AYtybe)
-  - [PWA Offline Mode](https://bit.ly/2qHjLQN) - enable service workers for offline mode
-  - [The Future of Server-Side Programming with Dart](https://bit.ly/2OBn71d)
 
 ## Dart in Action
   - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
