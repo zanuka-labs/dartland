@@ -14,6 +14,7 @@
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour) - learn how to use each major Dart feature
   - [Dart SDK](https://www.dartlang.org/tools/sdk) - libraries and command-line tools that you need to develop Dart apps
   - [Dart Packages](https://pub.dartlang.org/) - the npm equivalent for Dart. Find and use packages to build Flutter and web apps
+  - [Dart Mixins](https://www.dartlang.org/articles/language/mixins) - Gilad Bracha gives a brief history of mixins in Dart
 
 ## Dart in Action
   - [Tools](https://www.dartlang.org/tools) - SDK and tools for your app
