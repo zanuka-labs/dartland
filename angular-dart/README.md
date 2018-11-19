@@ -1,6 +1,11 @@
 # AngularDart resources
 selected resources, examples, guides, links, code
 
+## Installation
+  - [Mac Install](https://flutter.io/docs/get-started/install/macos)
+  - [Linux Install](https://flutter.io/docs/get-started/install/linux)
+  - [Windows Install](https://flutter.io/docs/get-started/install/windows)
+
 ## Fundamentals
   - [Dart Code Intro](https://www.dartlang.org/samples)
   - [Dart Language Tour](https://www.dartlang.org/guides/language/language-tour)
