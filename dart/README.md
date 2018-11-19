@@ -58,6 +58,17 @@
   - [Dart on the Server](https://dart-lang.github.io/server/server.html) - info on Dart server apps
   - [Aqueduct](https://pub.dartlang.org/packages/aqueduct) - modern HTTP server application framework
 
+## Serving Dart in the Google Cloud
+  - [Dart / Knative HelloWorld](https://github.com/knative/docs/tree/master/serving/samples/helloworld-dart) - support for serving Dart code on knative
+
+## Protocol buffers :: aka Protobuf
+Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
+
+  - [Protocol Buffers Reference Doc](https://developers.google.com/protocol-buffers/docs/reference/overview)
+  - [Core Protocol Buffers Site](https://developers.google.com/protocol-buffers/)
+  - [Dart generated protobuf code](https://developers.google.com/protocol-buffers/docs/reference/dart-generated)
+  - [dart-protoc-plugin](https://github.com/dart-lang/dart-protoc-plugin) - Dart plugin for protobuf compiler (protoc)
+
 ## Firebase
 - [ML Kit for Firebase](https://pub.dartlang.org/packages/firebase_ml_vision) - A Flutter plugin to use the ML Kit for Firebase API
 - [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) - set of Flutter plugins that enable Flutter apps to use one or more Firebase services
