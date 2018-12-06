@@ -2,7 +2,10 @@
 
 <img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
-## News, Events
+## Community :: OpenSource
+  - [Flutter Community](https://github.com/fluttercommunity/community) - a central place for all community made Flutter packages
+
+## News :: Events
   - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
 
 ## Articles
