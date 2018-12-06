@@ -52,3 +52,6 @@
 ## CI/CD Pipeline
 - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
 
+## Animation
+- [Flare Core Concepts](https://docs.2dimensions.com/support/flare/core-concepts) - 2D vector animation program. It allows you to place objects on the stage and animate their properties
+
