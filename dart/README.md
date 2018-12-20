@@ -91,3 +91,5 @@ Protocol buffers are a language-neutral, platform-neutral extensible mechanism f
   - [passsword](https://pub.dartlang.org/packages/password) - A set of high-level APIs over PointyCastle to hash and verify passwords securely
   - [Pointy Castle](https://github.com/PointyCastle/pointycastle) - port of Bouncy Castle from Java to Dart
   
+## Fushia OS
+  - [Topaz](https://github.com/fuchsia-mirror/topaz) - the layer where first-party mods (modules) live. Topaz augments system functionality by implementing interfaces defined by underlying layers. Topaz contains four major categories of software: modules, agents, shells, and runners. For example, modules include the dashboard, and runners include the Web, Dart, and Flutter runners.
