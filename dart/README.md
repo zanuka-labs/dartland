@@ -47,6 +47,7 @@
   - [Dart In 30 Seconds](https://www.youtube.com/results?search_query=%23DartIn30Seconds) - video series focused on basic Dart lessons
   - [Dart by Tensor Programming](https://bit.ly/2JUbmlO) - video series focused on Dart
   - [Flutter by Tensor Programming](https://bit.ly/2AZPMcL) - video series focused on Flutter
+  - [Evolving Dart: Leaving the ocean and learning to fly](https://www.youtube.com/watch?v=9FA3brRCz2Q) - by Leaf Petersen, software developer at Google, working on the Dart language.
 
 ## Database
   - [Dart Postgresql](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.
