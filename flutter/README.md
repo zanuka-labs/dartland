@@ -54,6 +54,9 @@
 - [Flutter IntelliJ Cheatsheet](https://flutter-io-deploy-one.firebaseapp.com/downloads/Flutter-IntelliJ-cheat-sheet-MacOS.pdf)
 - [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
 
+## Integration Tests
+- [How to write an integration test in Flutter](http://cogitas.net/write-integration-test-flutter/) - by Natalie Masse Hopper
+
 ## CI/CD Pipeline
 - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
 
