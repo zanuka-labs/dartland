@@ -10,6 +10,7 @@
 
 ## Articles
 - [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
+- [Flutter — A Production Ready Checklist](https://medium.com/capital-one-tech/flutter-a-production-ready-checklist-c202525fab48) - by Phillip Ngo
 
 ## Videos :: Screencasts
 - [Flutter by Tensor Programming](https://bit.ly/2AZPMcL) - video series focused on Flutter
