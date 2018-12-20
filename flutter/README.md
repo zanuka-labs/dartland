@@ -32,6 +32,9 @@
 - [Flutter - Advanced Course](https://www.udemy.com/flutter-advanced-course/)
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/)
 
+## Offline Utilities
+- [Flutter Offline](https://github.com/jogboms/flutter_offline) - A tidy utility to handle offline/online connectivity like a Boss.
+
 ## Streams :: RxDart :: Reactive Patterns
 - [Flutter with Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - by Brian Egan
 - [Making Flutter more Reactive](https://www.burkharts.net/apps/blog/making-flutter-more-reactive/)   
