@@ -23,6 +23,9 @@
 ## Tutorials
 - [Void Realms Flutter Tutorials](https://github.com/voidrealms/Flutter-Tutorials) - source code for [Void Realms Flutter Series](https://www.youtube.com/watch?v=ulg2dpPkulw&list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 
+## Project Starters
+- [Create a basic app via CLI in Linux](https://bendyworks.com/blog/a-month-of-flutter-create-the-app) - by Abraham Williams :: use the Linux SDK and Android Studio to create basic app starter. 
+
 ## Courses
 - [Build Native Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 - [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide/)
