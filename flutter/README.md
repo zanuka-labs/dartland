@@ -6,6 +6,7 @@
   - [Flutter Community](https://github.com/fluttercommunity/community) - a central place for all community made Flutter packages
 
 ## News :: Events
+  - [Upgrading to Flutter 1.0](https://bendyworks.com/blog/a-month-of-flutter-upgrading-to-1-0) - by Abraham Williams :: upgrade to Flutter 1.0 with confidence
   - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
 
 ## Articles
