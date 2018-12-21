@@ -58,10 +58,16 @@
 - [Flutter IntelliJ Cheatsheet](https://flutter-io-deploy-one.firebaseapp.com/downloads/Flutter-IntelliJ-cheat-sheet-MacOS.pdf)
 - [Flutter Plugin for IntelliJ](https://github.com/flutter/flutter-intellij) - official IntelliJ plugin for Flutter development
 
+## Code Linting :: Static Analysis
+- [Dart Lint Rules](http://dart-lang.github.io/linter/lints/) - official lint rules for Dart / Flutter developemnt
+- [Linter for Dart](https://pub.dartlang.org/packages/linter) - official linter package for Dart
+- [Customize Static Analysis](https://www.dartlang.org/guides/language/analysis-options) - official guide to configuring a custom `analysis_options.yaml`
+
 ## Integration Tests
 - [How to write an integration test in Flutter](http://cogitas.net/write-integration-test-flutter/) - by Natalie Masse Hopper
 
 ## CI/CD Pipeline
+- [Continuous Linting](https://bendyworks.com/blog/a-month-of-flutter-continuous-linting) - by Abraham Williams :: config Dartanalyzer with Travis CI
 - [A month of Flutter: configuring continuous integration](https://bendyworks.com/blog/a-month-of-flutter-configuring-continuous-integration) - by Abraham Williams :: Optimized Flutter/Travis test automation workflow
 - [Test Flutter Apps on Travis](https://medium.com/flutter-io/test-flutter-apps-on-travis-3fd5142ecd8c) - by Yegor Jbanov :: basic Travis config for Flutter widget testing
 - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
