@@ -59,6 +59,7 @@
 - [How to write an integration test in Flutter](http://cogitas.net/write-integration-test-flutter/) - by Natalie Masse Hopper
 
 ## CI/CD Pipeline
+- [A month of Flutter: configuring continuous integration](https://bendyworks.com/blog/a-month-of-flutter-configuring-continuous-integration) - by Abraham Williams :: Optimized Flutter/Travis test automation workflow
 - [Test Flutter Apps on Travis](https://medium.com/flutter-io/test-flutter-apps-on-travis-3fd5142ecd8c) - by Yegor Jbanov :: basic Travis config for Flutter widget testing
 - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
 
