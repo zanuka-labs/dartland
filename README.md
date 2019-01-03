@@ -7,7 +7,6 @@ explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, C
 - [AngularDart](angular-dart)
 - [BLoC Pattern](bloc)
 - [Tensor Programming](tensor)
-- [IntelliJ IDEA Projects](intellij-projects)
 - [Code Sharing](code-sharing)
 - [Workflow](workflow)
 - [Animation](animation)
