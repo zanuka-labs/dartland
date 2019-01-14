@@ -52,7 +52,8 @@
 ## BLoC Pattern
 - [Tensor Programming BLoC tutorial](https://steemit.com/utopian-io/@tensor/using-the-bloc-pattern-to-build-reactive-applications-with-streams-in-dart-s-flutter-framework)
 
-## Arch Patterns
+## Archictecture :: Patterns
+- [Flutter Architecture Samples](https://github.com/brianegan/flutter_architecture_samples) - TodoMVC for Flutter [fluttersamples.com](http://fluttersamples.com/)
 - [scoped model package](https://pub.dartlang.org/packages/scoped_model) - A Widget that passes a Reactive Model to all of it's children
 - [scoped model video](https://www.youtube.com/watch?v=-MCeWP3rgI0) - Video by Tensor explaining scoped models
 
