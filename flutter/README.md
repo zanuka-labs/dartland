@@ -3,12 +3,12 @@
 <img src="../img/flutter_logo.svg?sanitize=true" width="200px" alt="Flutter Logo">
 
 ## Community :: OpenSource
-  - [Flutter Community](https://github.com/fluttercommunity/community) - a central place for all community made Flutter packages
+- [Flutter Community](https://github.com/fluttercommunity/community) - a central place for all community made Flutter packages
 
 ## News :: Events
-  - [Flutter 1.0: Google’s Portable UI Toolkit](https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html) - by Tim Sneath, Group Product Manager for Flutter
-  - [Upgrading to Flutter 1.0](https://bendyworks.com/blog/a-month-of-flutter-upgrading-to-1-0) - by Abraham Williams :: upgrade to Flutter 1.0 with confidence
-  - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
+- [Flutter 1.0: Google’s Portable UI Toolkit](https://developers.googleblog.com/2018/12/flutter-10-googles-portable-ui-toolkit.html) - by Tim Sneath, Group Product Manager for Flutter
+- [Upgrading to Flutter 1.0](https://bendyworks.com/blog/a-month-of-flutter-upgrading-to-1-0) - by Abraham Williams :: upgrade to Flutter 1.0 with confidence
+- [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
 
 ## Articles
 - [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
