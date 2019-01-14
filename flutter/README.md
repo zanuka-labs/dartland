@@ -66,7 +66,9 @@
 - [Customize Static Analysis](https://www.dartlang.org/guides/language/analysis-options) - official guide to configuring a custom `analysis_options.yaml`
 
 ## Integration Tests
+- [Flutter and UI Automation](https://paulhammant.com/2018/08/18/flutter-and-ui-automation/) - by Paul Hammant
 - [How to write an integration test in Flutter](http://cogitas.net/write-integration-test-flutter/) - by Natalie Masse Hopper
+
 
 ## CI/CD Pipeline
 - [Continuous Linting](https://bendyworks.com/blog/a-month-of-flutter-continuous-linting) - by Abraham Williams :: config Dartanalyzer with Travis CI
