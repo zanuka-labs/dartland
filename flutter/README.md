@@ -69,6 +69,8 @@
 - [Flutter and UI Automation](https://paulhammant.com/2018/08/18/flutter-and-ui-automation/) - by Paul Hammant
 - [How to write an integration test in Flutter](http://cogitas.net/write-integration-test-flutter/) - by Natalie Masse Hopper
 
+## Performance Profiling
+- [Flutter Tutorial for basic app profiling test](https://flutter.io/docs/cookbook/testing/integration/profiling) - write a test that records a performance timeline while performing a specific task and saves a summary of the results to a local file 
 
 ## CI/CD Pipeline
 - [Continuous Linting](https://bendyworks.com/blog/a-month-of-flutter-continuous-linting) - by Abraham Williams :: config Dartanalyzer with Travis CI
