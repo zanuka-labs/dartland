@@ -11,6 +11,7 @@
 - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
 
 ## Articles
+- [Flutter: The sky's the limit](https://www.theappbusiness.com/insights/flutter-the-skys-the-limit) - nice article by Swav Kulinski, Lead Android Developer @ [The App Business](https://www.theappbusiness.com/) 
 - [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
 - [Flutter — A Production Ready Checklist](https://medium.com/capital-one-tech/flutter-a-production-ready-checklist-c202525fab48) - by Phillip Ngo
 
