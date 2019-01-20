@@ -15,6 +15,7 @@
   - [flutter-versioning](https://medium.com/@ralphbergmann/versioning-with-flutter-299869e68af4) 
   - [increment-version-code](https://github.com/Jems22/fastlane-plugin-increment_version_code)
   - [Flutter+Fastlane One-Click Beta](https://www.rodydavis.com/single-post/2018/05/18/Flutter-Fastlane-One-Click-Beta)
+  - [Flutter unit, widget and integration testing pipeline](https://medium.com/@nocnoc/flutter-unit-widget-and-integration-testing-with-ios-and-android-emulators-on-travis-ci-df17ed7c3be) - run tests on IOS & Android emulators via Travis-CI
 
 ## Docker
   - [zsh docker aliases](https://github.com/sorin-ionescu/prezto/tree/master/modules/docker) - handy aliases for zsh users
