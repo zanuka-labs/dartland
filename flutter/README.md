@@ -13,6 +13,8 @@
 ## Articles
 - [Why Flutter Will Change Mobile Development for the Best](https://proandroiddev.com/why-flutter-will-change-mobile-development-for-the-best-c249f71fa63c) - by [Aaron Oertel](https://proandroiddev.com/@aaronoe)
 :: Android @ Microsoft
+- [Why every Android Developer should try out Flutter](https://proandroiddev.com/why-every-android-developer-should-try-out-flutter-319ae710e97f) - by [Aaron Oertel](https://proandroiddev.com/@aaronoe)
+:: Android @ Microsoft
 - [The Future Is Flutter...](https://www.i-programmer.info/news/83-mobliephone/12354-the-future-is-flutter.html) - great article by  Mike James :: Dart / Flutter / Brilliance
 - [Flutter: The sky's the limit](https://www.theappbusiness.com/insights/flutter-the-skys-the-limit) - nice article by Swav Kulinski, Lead Android Developer @ [The App Business](https://www.theappbusiness.com/) 
 - [Google Flutter and Dart](https://dzone.com/articles/google-flutter-and-dart) - DZone article by Diksha Rana takes a high-level look at Flutter and Dart language
