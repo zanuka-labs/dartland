@@ -10,15 +10,17 @@ explorations in Dart: Flutter, AngularDart, Dart Packages, StageXL, WebServer, C
 - [Code Sharing](code-sharing)
 - [Workflow](workflow)
 - [Animation](animation)
+- [Packages / Plugins](packages-plugins)
 
 _to be added..._
-- Dart Packages
 - Console Apps
 - StageXL Apps
 - Tooling
 - Debugging
 - Validation
-- Testing
+- Unit Testing
+- Widget Testing
+- Driver Testing
 - Utilities
 - Databases
 
