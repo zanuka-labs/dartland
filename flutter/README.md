@@ -11,6 +11,7 @@
 - [Flutter Live 2018](https://developers.google.com/events/flutter-live/) - experience the latest from Flutter, Google’s free and open source SDK
 
 ## Articles
+- [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8) - Flutter team's approach, current state of the technology.
 - [Why Flutter Will Change Mobile Development for the Best](https://proandroiddev.com/why-flutter-will-change-mobile-development-for-the-best-c249f71fa63c) - by [Aaron Oertel](https://proandroiddev.com/@aaronoe)
 :: Android @ Microsoft
 - [Why every Android Developer should try out Flutter](https://proandroiddev.com/why-every-android-developer-should-try-out-flutter-319ae710e97f) - by [Aaron Oertel](https://proandroiddev.com/@aaronoe)
